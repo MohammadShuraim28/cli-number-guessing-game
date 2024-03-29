@@ -1,9 +1,10 @@
 {
-  "name": "number-guessing-game-coding-night-4",
+  "name": "ms28-number-guessing-game-coding-night-4",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "inder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
