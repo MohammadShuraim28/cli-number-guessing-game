@@ -1,4 +1,4 @@
-#! usr/bin/evn node
+#! /usr/bin/evn Node
 
 import inquirer from "inquirer";
 

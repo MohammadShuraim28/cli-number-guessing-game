@@ -1,4 +1,4 @@
-#! usr/bin/evn node
+#! /usr/bin/evn Node
 import inquirer from "inquirer";
 const randomNumber = Math.floor(Math.random() * 10 + 1);
 const answer = await inquirer.prompt([
